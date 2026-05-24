@@ -59,7 +59,7 @@ Everything important is configurable in config.lua, including:
 
 ### Download
 
-Download the script using the ZIP file below.
+Download the script using the ZIP file in [Releases](https://github.com/Thymester/TTD-AOP/releases).
 
 ### Additional Information
 
